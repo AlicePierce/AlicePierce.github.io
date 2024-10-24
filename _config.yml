@@ -21,6 +21,11 @@ author: Alice Pierce
 
 navbar-links:
   About Me: "aboutme"
+  CV: "cv"
+  Research: "research"
+  Outreach: "outreach"
+  SciArt Portfolio: "sciart"
+  Contact: "contact"
  # Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
