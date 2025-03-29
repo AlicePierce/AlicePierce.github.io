@@ -2,12 +2,17 @@
 
 ## Sections
 - [Resources for Undergraduate Students](#resources-for-undergraduate-students)
+- [Resources for Graduate Students](#resources-for-graduate-students)
 - [Blog Posts](#blog-posts)
 - [Webinars](#webinars)
   
 ## Resources for Undergraduate Students
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/appuXmu4XSkVujs2M/shrXonOpMB5qRRFgl?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/appuXmu4XSkVujs2M/shrXonOpMB5qRRFgl?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="333" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+## Resources for Graduate Students
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/app4mb5eKRDyZpwR1/shr0ITTr6RHbSKHDc?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="333" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ## Blog Posts
 [The Science Behind Scientific Writing](https://plantae.org/the-science-behind-scientific-writing/) for Plantae-ASPB
