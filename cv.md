@@ -36,6 +36,18 @@
 -  DeMott, L., Oblessuc, P.R., **Pierce, A.**, Student, J. and Melotto, M. (2021)  
   *Spatiotemporal regulation of JAZ4 expression and splicing contribute to ethylene- and auxin-mediated responses in Arabidopsis roots. Plant J.*, 108: 1266-1282.  
   doi: [10.1111/tpj.15508](https://doi.org/10.1111/tpj.15508)
+
+---
+## Teaching
+- **Guest Lecture**
+  *"Becoming a Latina Scientist", Winter 2025, Becoming a Latino Scientist Seminar at UC Davis* 
+- **Teaching Assistant**
+  *Plant Genetics, Fall 2022 & Fall 2023, UC Davis*
+- **Guest Lecture**
+  *"Is the Central Dogma Actually a Dogma?", Summer 2021, American Chemical Society*
+- **Learning Assistant**
+  *Biodiversity and the Tree of Life, Winter 2017, UC Davis*
+
 ---
 ## Honors & Awards
 
@@ -69,5 +81,29 @@
 - **UC Davis Dean’s Distinguished Graduate Fellowship**  
   *2021-2022*
 
-
+---
+## Presentations
+- **Oral Presentation:** “The Role of Introns in Plant Chromatin” Pierce, Alice. Presented at the Annual Biotechnology Training Retreat at UC Davis. March 2025
+- **Abstract & Poster Presentation:** “Exploring the impact of intron architecture on chromatin features in plants” Pierce, Alice & Monroe, J. Grey. Presented at National Diversity in STEM. November 2024
+- **Workshop:** “How to make an effective graphical abstract or scientific illustration” Pierce, Alice & Chakraborty, Sonhita. Presented at Plant Biology 2024 with over 150 attendees. June 2024
+- **Oral Presentation:** “The Role of Introns in Plant Chromatin” Pierce, Alice Presented at Plant Biology 2024. June 2024
+- **Abstract & Poster Presentation:** “Exploring the impact of intron architecture on chromatin features in plants” Pierce, Alice & Monroe, J. Grey. Presented at Plant Biology 2024. June 2024
+- **Oral Presentation:** “The Role of Introns in Plant Chromatin” Pierce, Alice. Presented at Plant Biology Graduate Group Tuesday Seminar. April 2024
+- **Oral Presentation:** “Understanding the role of introns on the histone code” Pierce, Alice. Presented at the National Diversity in STEM. October 2023
+- **Abstract & Poster Presentation:** “Intron Loss and Gain: Implications for
+Chromatin Biology in Arabidopsis Gene Duplicates” Pierce, Alice & Monroe, J.
+Grey. Presented at Plant Biology 2023. August 2023
+- **Poster Presentation:** “How does intron loss/gain affect chromatin marks in gene
+duplicates?” Pierce, Alice & Monroe, J. Grey. Presented at the Plant Sciences
+Symposium at UC Davis. May 2023
+- **Abstract & Poster Presentation:** “How does intron loss/gain affect chromatin
+marks in gene duplicates?” Pierce, Alice & Monroe, J. Grey. Presented at the
+UC Davis Annual Biotechnology Program Retreat. March 2023
+- **Poster Presentation:** “How do IME introns contribute to the mutation rate and
+epigenetic landscape of their gene bodies?” Pierce, Alice & Monroe, J. Grey.
+Presented at the Plant Sciences Symposium at UC Davis. May 2022
+- **Oral Presentation:** “How does IME affect gene body mutations?” Plant Biology
+Graduate Group Seminar, UC Davis, March 2022
+- **Abstract and Poster Presentation:** ”What Kind of Sequences Support
+Transcription Initiation in Response to Stimulatory Introns?” Pierce, Alice & Rose, Alan. Presented at the Undergraduate Research Conference at UC Davis. April 2019
 
