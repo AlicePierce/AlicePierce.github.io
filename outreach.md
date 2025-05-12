@@ -14,6 +14,9 @@
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/app4mb5eKRDyZpwR1/shr0ITTr6RHbSKHDc?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="333" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
+## Get Involved
+<iframe class="airtable-embed" src="https://airtable.com/embed/appEhOZUtWJUTYqRn/shr2ltfMJrF0qvPHj?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="222" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
 ## Blog Posts
 [The Science Behind Scientific Writing](https://plantae.org/the-science-behind-scientific-writing/) for Plantae-ASPB
 
