@@ -6,5 +6,5 @@ Introns are non-coding sequences within genes that are transcribed into RNA but 
 
 ### Check out my R Package: intronology
 <a href="https://github.com/AlicePierce/intronology" target="_blank">
-  <img src="assets/img/intronology-template.png" alt="intronology" style="width:35%; max-width:200px;">
+  <img src="https://alicepierce.github.io/assets/img/intronology-template.png" alt="intronology" style="width:35%; max-width:200px;">
 </a>
