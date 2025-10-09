@@ -18,22 +18,26 @@
 
 ---
 ## Publications
-- Monroe, J. Grey, Chaehee Lee, Daniela Quiroz, Mariele Lensink, Satoyo Oya, Matthew Davis, Evan Long, Kevin Bird, **Alice Pierce**, et al. (2024)  
-  *Convergent Evolution of Epigenome Recruited DNA Repair across the Tree of Life. bioRxiv.*
-  doi: [10.1101/2024.10.15.618488](https://doi.org/10.1101/2024.10.15.618488)
+- Daniela Quiroz, **Alice Pierce** and Grey Monroe (2025)  
+  *Evolutionary Trajectories of Cohesin Gatekeepers across the Tree of Life. bioRxiv.*
+  doi: [10.7554/elife.105016.1](https://doi.org/10.1101/2025.05.08.652912)
+  
+- Grey Monroe, Chaehee Lee, Daniela Quiroz, Mariele Lensink, Satoyo Oya, Matthew Davis, Evan Long, Kevin Bird, **Alice Pierce**, et al. (2025)  
+  *Convergent Evolution of Epigenome Recruited DNA Repair across the Tree of Life. eLife.*
+  doi: [10.7554/elife.105016.1](https://doi.org/10.7554/elife.105016.1)
 
 -  Daniela Quiroz, Diego Lopez-Mateos, Kehan Zhao, **Alice Pierce**, et al. (2024)  
   *H3K4me1 recruits DNA repair in plants. The Plant Cell.*  
   doi: [10.1093/plcell/koae089](https://doi.org/10.1093/plcell/koae089)
 
-- **Alice Pierce**, Ian Anderson, Neelima Sinha, Grey Monroe (2024)  
+- **Alice Pierce**, Ian Anderson, Neelima Sinha and Grey Monroe (2024)  
   *Celebrating modern plant diversity cataloging. Plant Sciences Bulletin*
 
 -  **Alice Pierce**, Joseph Student and Maeli Melotto (2022)  
   *The Farm-to-Fork Journey: Keeping Produce Fresh and Safe to Eat. Front. Young Minds*, 10:587135.  
   doi: [10.3389/frym.2022.587135](https://doi.org/10.3389/frym.2022.587135)
 
--  DeMott, L., Oblessuc, P.R., **Pierce, A.**, Student, J. and Melotto, M. (2021)  
+-  Logan DeMott, Paula Oblessuc, **Alice Pierce**, Joseph Student and Maeli Melotto (2021)  
   *Spatiotemporal regulation of JAZ4 expression and splicing contribute to ethylene- and auxin-mediated responses in Arabidopsis roots. Plant J.*, 108: 1266-1282.  
   doi: [10.1111/tpj.15508](https://doi.org/10.1111/tpj.15508)
 
