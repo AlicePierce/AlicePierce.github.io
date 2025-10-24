@@ -1,12 +1,6 @@
-<div align="center">
-  
 ## Intron Biology 
-  
-</div>
 
-<p align="center">
-  <img src="https://github.com/AlicePierce/AlicePierce.github.io/blob/master/intron-splicing.png" alt="Splicing" height="350">
-</p>
+![Splicing](intron-splicing.png)
 
 Introns are non-coding sequences within genes that are transcribed into RNA but are spliced out before translation into protein. Despite introns being ubiquitous features of eukaryotic genomes, their function and persistence in genomes remain elusive. My research aims to unravel the role of introns in chromatin structure and explore how their architecture and sequences influence transcriptional regulation.
 
