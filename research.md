@@ -1,12 +1,21 @@
-## Intron Biology 
+---
+layout: page
+title: Research
+---
+
+## Intron Biology
 
 ![Splicing](intron-splicing.png)
 
 Introns are non-coding sequences within genes that are transcribed into RNA but are spliced out before translation into protein. Despite introns being ubiquitous features of eukaryotic genomes, their function and persistence in genomes remain elusive. My research aims to unravel the role of introns in chromatin structure and explore how their architecture and sequences influence transcriptional regulation.
 
-### Predicting Chromatin Features from Intron Architecture 
+<hr class="section-divider">
 
-To understand the relationship between intron architecture and chromatin features in the model plant *Arabidopsis thaliana*, we predicted histone modifications, histone variants, DNA methylation, and gene expression patterns from gene features. Our analysis revealed that first intron position is predictive of active chromatin marks enriched near transcription start sites, while intron number correlates with distinct chromatin marks found in gene bodies of broadly expressed genes. 
+<div class="card-modern" markdown="1">
+
+### Predicting Chromatin Features from Intron Architecture
+
+To understand the relationship between intron architecture and chromatin features in the model plant *Arabidopsis thaliana*, we predicted histone modifications, histone variants, DNA methylation, and gene expression patterns from gene features. Our analysis revealed that first intron position is predictive of active chromatin marks enriched near transcription start sites, while intron number correlates with distinct chromatin marks found in gene bodies of broadly expressed genes.
 
 Notably, we identified enrichment of the gene body mark H3K36me3 within introns, a pattern that appears to be plant-specific. To validate these associations, we compared recently duplicated gene pairs with divergent intron architectures and confirmed that intron number is positively associated with H3K4me1, H3K36me3, H2A.X, meCG methylation, and broad expression across tissues.
 
@@ -20,10 +29,14 @@ Notably, we identified enrichment of the gene body mark H3K36me3 within introns,
   </a>
 </p>
 
+</div>
+
+<hr class="section-divider">
+
 ### Check out my R Package: intronology
 
 <p align="center">
   <a href="https://github.com/AlicePierce/intronology" target="_blank">
-    <img src="https://alicepierce.github.io/assets/img/intronology-template.png" alt="intronology" style="width:35%; max-width:200px;">
+    <img src="https://alicepierce.github.io/assets/img/intronology-template.png" alt="intronology R package logo" style="width:35%; max-width:200px;">
   </a>
 </p>

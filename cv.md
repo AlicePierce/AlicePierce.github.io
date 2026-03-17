@@ -1,113 +1,316 @@
-# CV
+---
+layout: page
+title: CV
+---
 
 ## Education
- 
-**Doctor of Philosophy in Plant Biology, UC Davis**  
-*Designated Emphasis in Biotechnology*  
-**Research Interest:** The effect of introns in chromatin biology   
-**Major Professor:** Dr. J. Grey Monroe  
-*Expected Graduation:* June 2026
 
----
+<div class="edu-card">
+<p class="edu-degree">Doctor of Philosophy in Plant Biology</p>
+<p class="edu-school">University of California, Davis &nbsp;·&nbsp; Expected December 2026</p>
+<p class="edu-detail"><em>Designated Emphasis in Biotechnology</em></p>
+<p class="edu-detail"><strong>Research Interest:</strong> The role of introns in chromatin biology</p>
+<p class="edu-detail"><strong>Major Professor:</strong> Dr. J. Grey Monroe</p>
+</div>
 
-**Bachelor of Science in Biotechnology, _Honors_, UC Davis**  
-*Specialization in Plant Biotechnology*  
-**Honors Thesis:** Understanding what kind of sequences can support transcription initiation in response to stimulatory introns  
-***Minor** in Computational Biology*  
-*Graduation Date:* June 2019
+<div class="edu-card">
+<p class="edu-degree">Bachelor of Science in Biotechnology, <em>Honors</em></p>
+<p class="edu-school">University of California, Davis &nbsp;·&nbsp; June 2019</p>
+<p class="edu-detail"><em>Minor in Computational Biology</em></p>
+<p class="edu-detail"><strong>Honors Thesis:</strong> Understanding what kind of sequences can support transcription initiation in response to stimulatory introns</p>
+</div>
 
----
+<hr class="section-divider">
+
 ## Publications
-- Daniela Quiroz, **Alice Pierce** and Grey Monroe (2025)  
-  *Evolutionary Trajectories of Cohesin Gatekeepers across the Tree of Life. bioRxiv.*
-  doi: [10.7554/elife.105016.1](https://doi.org/10.1101/2025.05.08.652912)
-  
-- Grey Monroe, Chaehee Lee, Daniela Quiroz, Mariele Lensink, Satoyo Oya, Matthew Davis, Evan Long, Kevin Bird, **Alice Pierce**, et al. (2025)  
-  *Convergent Evolution of Epigenome Recruited DNA Repair across the Tree of Life. eLife.*
-  doi: [10.7554/elife.105016.1](https://doi.org/10.7554/elife.105016.1)
 
--  Daniela Quiroz, Diego Lopez-Mateos, Kehan Zhao, **Alice Pierce**, et al. (2024)  
-  *H3K4me1 recruits DNA repair in plants. The Plant Cell.*  
-  doi: [10.1093/plcell/koae089](https://doi.org/10.1093/plcell/koae089)
+<div class="pub-card">
+<p class="pub-title">Intron architecture predicts chromatin features in <em>Arabidopsis thaliana</em></p>
+<span class="pub-authors"><strong>Alice Pierce</strong>, Alan Rose, Grey Monroe (2025)</span>
+<span class="pub-journal">bioRxiv</span>
+<a class="doi-link" href="https://doi.org/10.1101/2025.10.15.682614">DOI</a>
+</div>
 
-- **Alice Pierce**, Ian Anderson, Neelima Sinha and Grey Monroe (2024)  
-  *Celebrating modern plant diversity cataloging. Plant Sciences Bulletin*
+<div class="pub-card">
+<p class="pub-title">Evolutionary Trajectories of Cohesin Gatekeepers across the Tree of Life</p>
+<span class="pub-authors">Daniela Quiroz, <strong>Alice Pierce</strong>, Grey Monroe (2025)</span>
+<span class="pub-journal">bioRxiv</span>
+<a class="doi-link" href="https://doi.org/10.1101/2025.05.08.652912">DOI</a>
+</div>
 
--  **Alice Pierce**, Joseph Student and Maeli Melotto (2022)  
-  *The Farm-to-Fork Journey: Keeping Produce Fresh and Safe to Eat. Front. Young Minds*, 10:587135.  
-  doi: [10.3389/frym.2022.587135](https://doi.org/10.3389/frym.2022.587135)
+<div class="pub-card">
+<p class="pub-title">Convergent Evolution of Epigenome Recruited DNA Repair across the Tree of Life</p>
+<span class="pub-authors">J. Grey Monroe, Chaehee Lee, (…), <strong>Alice Pierce</strong>, et al. (2025)</span>
+<span class="pub-journal">eLife</span>
+<a class="doi-link" href="https://doi.org/10.7554/eLife.105016.1">DOI</a>
+</div>
 
--  Logan DeMott, Paula Oblessuc, **Alice Pierce**, Joseph Student and Maeli Melotto (2021)  
-  *Spatiotemporal regulation of JAZ4 expression and splicing contribute to ethylene- and auxin-mediated responses in Arabidopsis roots. Plant J.*, 108: 1266-1282.  
-  doi: [10.1111/tpj.15508](https://doi.org/10.1111/tpj.15508)
+<div class="pub-card">
+<p class="pub-title">H3K4me1 recruits DNA repair in plants</p>
+<span class="pub-authors">Daniela Quiroz, Diego Lopez-Mateos, Kehan Zhao, <strong>Alice Pierce</strong>, et al. (2024)</span>
+<span class="pub-journal">The Plant Cell</span>
+<a class="doi-link" href="https://doi.org/10.1093/plcell/koae089">DOI</a>
+</div>
 
----
+<div class="pub-card">
+<p class="pub-title">Celebrating modern plant diversity cataloging</p>
+<span class="pub-authors"><strong>Alice Pierce</strong>, Ian Anderson, Neelima Sinha and Grey Monroe (2024)</span>
+<span class="pub-journal">Plant Sciences Bulletin</span>
+</div>
+
+<div class="pub-card">
+<p class="pub-title">The Farm-to-Fork Journey: Keeping Produce Fresh and Safe to Eat</p>
+<span class="pub-authors"><strong>Alice Pierce</strong>, Joseph Student and Maeli Melotto (2022)</span>
+<span class="pub-journal">Frontiers for Young Minds, 10:587135</span>
+<a class="doi-link" href="https://doi.org/10.3389/frym.2022.587135">DOI</a>
+</div>
+
+<div class="pub-card">
+<p class="pub-title">Spatiotemporal regulation of JAZ4 expression and splicing contribute to ethylene- and auxin-mediated responses in <em>Arabidopsis</em> roots</p>
+<span class="pub-authors">Logan DeMott, Paula Oblessuc, <strong>Alice Pierce</strong>, Joseph Student and Maeli Melotto (2021)</span>
+<span class="pub-journal">Plant Journal, 108: 1266–1282</span>
+<a class="doi-link" href="https://doi.org/10.1111/tpj.15508">DOI</a>
+</div>
+
+<hr class="section-divider">
+
 ## Teaching
-- **Guest Lecture**
-  *"Becoming a Latina Scientist", Winter 2025, Becoming a Latino Scientist Seminar at UC Davis* 
-- **Teaching Assistant**
-  *Plant Genetics, Fall 2022 & Fall 2023, UC Davis*
-- **Guest Lecture**
-  *"Is the Central Dogma Actually a Dogma?", Summer 2021, American Chemical Society*
-- **Learning Assistant**
-  *Biodiversity and the Tree of Life, Winter 2017, UC Davis*
 
----
+<div class="card-modern" markdown="1">
+
+- **Guest Lecture** — *"The Role of Introns in Plant Chromatin"*, Fall 2025, UC Davis Plant Genetics
+- **Guest Lecture** — *"Becoming a Latina Scientist"*, Winter 2025, Becoming a Latino Scientist Seminar at UC Davis
+- **Teaching Assistant** — *Plant Genetics*, Fall 2022 & Fall 2023, UC Davis
+- **Guest Lecture** — *"Is the Central Dogma Actually a Dogma?"*, Summer 2021, American Chemical Society
+- **Learning Assistant** — *Biodiversity and the Tree of Life*, Winter 2017, UC Davis
+
+</div>
+
+<hr class="section-divider">
+
 ## Honors & Awards
 
-- **Chapter Leadership Participant Travel Award**  
-  *Society for the Advancement of Chicanos/Hispanics and Native Americans in Science, National Diversity in STEM 2024 Conference*
+<div class="awards-grid">
 
-- **Corteva Student Showcase Travel Award**  
-  *American Society for Plant Biologists 2024 Conference*
+<div class="award-card">
+<p class="award-name">Root &amp; Shoot Travel Award</p>
+<p class="award-detail">American Society for Plant Biologists, Plant Biology Conference, 2026</p>
+</div>
 
-- **Summer Graduate Student Research Award**  
-  *For engineering, computer sciences, and disciplines with engineering-related applications and methods, Summer 2023*
+<div class="award-card">
+<p class="award-name">Graduate Student Oral Presentation Award</p>
+<p class="award-detail">National Diversity in STEM Conference, 2025</p>
+</div>
 
-- **Travel Scholarship Award**  
-  *Society for the Advancement of Chicanos/Hispanics and Native Americans in Science, National Diversity in STEM 2023 Conference*
+<div class="award-card">
+<p class="award-name">Chapter Officer Leadership Retreat Participant Travel Award</p>
+<p class="award-detail">SACNAS, National Diversity in STEM Conference, 2025</p>
+</div>
 
-- **Recognition Travel Award**  
-  *Equity, Diversity, and Inclusion Committee, American Society of Plant Biologists, ASPB 2023 Conference*
+<div class="award-card">
+<p class="award-name">International Student Workshop</p>
+<p class="award-detail">UC Davis – IGDB – NAIST, September 2025</p>
+</div>
 
-- **General Member Award for Outstanding High School Outreach**  
-  *Grad and Postdoc UC Davis SACNAS Chapter, 2022-2023*
+<div class="award-card">
+<p class="award-name">CBS DEIJ Initiative Grant ($500)</p>
+<p class="award-detail">Graduate Student and Postdoctoral SACNAS Chapter High School Outreach Committee, March 2025</p>
+</div>
 
-- **Ford Foundation Fellowship, Honorable Mention**  
-  *National Academy of Sciences, Engineering and Medicine*
+<div class="award-card">
+<p class="award-name">2nd Place STEM-Talk</p>
+<p class="award-detail">Annual Biotechnology Training Retreat at UC Davis, March 2025</p>
+</div>
 
-- **Jastro-Shields Research Award**  
-  *2022*
+<div class="award-card">
+<p class="award-name">Chapter Officer Leadership Retreat Participant Travel Award</p>
+<p class="award-detail">SACNAS, National Diversity in STEM Conference, 2024</p>
+</div>
 
-- **Department of Plant Sciences Graduate Student Research Award**  
-  *2022-2026*
+<div class="award-card">
+<p class="award-name">Corteva Student Showcase Travel Award</p>
+<p class="award-detail">American Society for Plant Biologists, Plant Biology Conference, 2024</p>
+</div>
 
-- **UC Davis Dean’s Distinguished Graduate Fellowship**  
-  *2021-2022*
+<div class="award-card">
+<p class="award-name">Summer Graduate Student Research Award ($15,270)</p>
+<p class="award-detail">Engineering, Computer Sciences and Disciplines with Engineering-related Applications and Methods, 2023</p>
+</div>
 
----
+<div class="award-card">
+<p class="award-name">Travel Scholarship Award</p>
+<p class="award-detail">SACNAS, National Diversity in STEM Conference, 2023</p>
+</div>
+
+<div class="award-card">
+<p class="award-name">Recognition Travel Award</p>
+<p class="award-detail">Equity, Diversity, and Inclusion Committee, ASPB 2023 Conference</p>
+</div>
+
+<div class="award-card">
+<p class="award-name">General Member Award for Outstanding High School Outreach</p>
+<p class="award-detail">Grad and Postdoc UC Davis SACNAS Chapter, 2022–2023</p>
+</div>
+
+<div class="award-card">
+<p class="award-name">Ford Foundation Fellowship, Honorable Mention</p>
+<p class="award-detail">National Academy of Sciences, Engineering and Medicine, 2023</p>
+</div>
+
+<div class="award-card">
+<p class="award-name">Jastro-Shields Research Award ($3,000)</p>
+<p class="award-detail">2022</p>
+</div>
+
+<div class="award-card">
+<p class="award-name">Department of Plant Sciences Graduate Student Research Award ($80,000)</p>
+<p class="award-detail">2022–2026</p>
+</div>
+
+<div class="award-card">
+<p class="award-name">UC Davis Dean's Distinguished Graduate Fellowship ($27,000)</p>
+<p class="award-detail">2021–2022</p>
+</div>
+
+<div class="award-card">
+<p class="award-name">Department of Plant Sciences Citation Award</p>
+<p class="award-detail">2019</p>
+</div>
+
+<div class="award-card">
+<p class="award-name">California Crop Improvement Association (CCIA) Scholarship</p>
+<p class="award-detail">2018</p>
+</div>
+
+<div class="award-card">
+<p class="award-name">Knowles Agronomy Scholarship</p>
+<p class="award-detail">2018</p>
+</div>
+
+<div class="award-card">
+<p class="award-name">Academic Excellence Award</p>
+<p class="award-detail">Center for Chicanx and Latinx Academic Student Success, 2018</p>
+</div>
+
+<div class="award-card">
+<p class="award-name">William and Charlotte Lider Scholarship</p>
+<p class="award-detail">2016</p>
+</div>
+
+</div>
+
+<hr class="section-divider">
+
 ## Presentations
-- **Oral Presentation:** “The Role of Introns in Plant Chromatin” Pierce, Alice. Presented at the Annual Biotechnology Training Retreat at UC Davis. March 2025
-- **Abstract & Poster Presentation:** “Exploring the impact of intron architecture on chromatin features in plants” Pierce, Alice & Monroe, J. Grey. Presented at National Diversity in STEM. November 2024
-- **Workshop:** “How to make an effective graphical abstract or scientific illustration” Pierce, Alice & Chakraborty, Sonhita. Presented at Plant Biology 2024 with over 150 attendees. June 2024
-- **Oral Presentation:** “The Role of Introns in Plant Chromatin” Pierce, Alice Presented at Plant Biology 2024. June 2024
-- **Abstract & Poster Presentation:** “Exploring the impact of intron architecture on chromatin features in plants” Pierce, Alice & Monroe, J. Grey. Presented at Plant Biology 2024. June 2024
-- **Oral Presentation:** “The Role of Introns in Plant Chromatin” Pierce, Alice. Presented at Plant Biology Graduate Group Tuesday Seminar. April 2024
-- **Oral Presentation:** “Understanding the role of introns on the histone code” Pierce, Alice. Presented at the National Diversity in STEM. October 2023
-- **Abstract & Poster Presentation:** “Intron Loss and Gain: Implications for
-Chromatin Biology in Arabidopsis Gene Duplicates” Pierce, Alice & Monroe, J.
-Grey. Presented at Plant Biology 2023. August 2023
-- **Poster Presentation:** “How does intron loss/gain affect chromatin marks in gene
-duplicates?” Pierce, Alice & Monroe, J. Grey. Presented at the Plant Sciences
-Symposium at UC Davis. May 2023
-- **Abstract & Poster Presentation:** “How does intron loss/gain affect chromatin
-marks in gene duplicates?” Pierce, Alice & Monroe, J. Grey. Presented at the
-UC Davis Annual Biotechnology Program Retreat. March 2023
-- **Poster Presentation:** “How do IME introns contribute to the mutation rate and
-epigenetic landscape of their gene bodies?” Pierce, Alice & Monroe, J. Grey.
-Presented at the Plant Sciences Symposium at UC Davis. May 2022
-- **Oral Presentation:** “How does IME affect gene body mutations?” Plant Biology
-Graduate Group Seminar, UC Davis, March 2022
-- **Abstract and Poster Presentation:** ”What Kind of Sequences Support
-Transcription Initiation in Response to Stimulatory Introns?” Pierce, Alice & Rose, Alan. Presented at the Undergraduate Research Conference at UC Davis. April 2019
 
+<div class="presentations-grid">
+
+<div class="pres-card">
+<span class="pres-tag tag-oral">Oral</span>
+<p class="pres-title">"The Role of Introns in Plant Chromatin"</p>
+<p class="pres-venue">National Diversity in STEM · Columbus, Ohio · October 2025</p>
+</div>
+
+<div class="pres-card">
+<span class="pres-tag tag-both">Poster &amp; Oral</span>
+<p class="pres-title">"The Role of Introns in Plant Chromatin"</p>
+<p class="pres-venue">International Student Workshop, Nara, Japan · September 2025</p>
+</div>
+
+<div class="pres-card">
+<span class="pres-tag tag-workshop">Workshop</span>
+<p class="pres-title">"How to make a personal website using GitHub"</p>
+<p class="pres-venue">Graduate Student and Postdoctoral SACNAS Chapter, UC Davis · May 2025</p>
+</div>
+
+<div class="pres-card">
+<span class="pres-tag tag-poster">Poster</span>
+<p class="pres-title">"Exploring the impact of intron architecture on chromatin features in plants"</p>
+<p class="pres-venue">Bay Area Plant Hub Symposium · April 2025</p>
+</div>
+
+<div class="pres-card">
+<span class="pres-tag tag-poster">Poster</span>
+<p class="pres-title">"Exploring the impact of intron architecture on chromatin features in plants"</p>
+<p class="pres-venue">Plant Sciences Symposium, UC Davis · April 2025</p>
+</div>
+
+<div class="pres-card">
+<span class="pres-tag tag-oral">Oral</span>
+<p class="pres-title">"The Role of Introns in Plant Chromatin"</p>
+<p class="pres-venue">Annual Biotechnology Training Retreat, UC Davis · March 2025</p>
+</div>
+
+<div class="pres-card">
+<span class="pres-tag tag-both">Abstract &amp; Poster</span>
+<p class="pres-title">"Exploring the impact of intron architecture on chromatin features in plants"</p>
+<p class="pres-venue">National Diversity in STEM · November 2024</p>
+</div>
+
+<div class="pres-card">
+<span class="pres-tag tag-workshop">Workshop</span>
+<p class="pres-title">"How to make an effective graphical abstract or scientific illustration"</p>
+<p class="pres-venue">Plant Biology 2024 · 150+ attendees · June 2024</p>
+</div>
+
+<div class="pres-card">
+<span class="pres-tag tag-oral">Oral</span>
+<p class="pres-title">"The Role of Introns in Plant Chromatin"</p>
+<p class="pres-venue">Plant Biology 2024 · June 2024</p>
+</div>
+
+<div class="pres-card">
+<span class="pres-tag tag-both">Abstract &amp; Poster</span>
+<p class="pres-title">"Exploring the impact of intron architecture on chromatin features in plants"</p>
+<p class="pres-venue">Plant Biology 2024 · June 2024</p>
+</div>
+
+<div class="pres-card">
+<span class="pres-tag tag-oral">Oral</span>
+<p class="pres-title">"The Role of Introns in Plant Chromatin"</p>
+<p class="pres-venue">Plant Biology Graduate Group Tuesday Seminar, UC Davis · April 2024</p>
+</div>
+
+<div class="pres-card">
+<span class="pres-tag tag-oral">Oral</span>
+<p class="pres-title">"Understanding the role of introns on the histone code"</p>
+<p class="pres-venue">National Diversity in STEM · October 2023</p>
+</div>
+
+<div class="pres-card">
+<span class="pres-tag tag-both">Abstract &amp; Poster</span>
+<p class="pres-title">"Intron Loss and Gain: Implications for Chromatin Biology in Arabidopsis Gene Duplicates"</p>
+<p class="pres-venue">Plant Biology 2023 · August 2023</p>
+</div>
+
+<div class="pres-card">
+<span class="pres-tag tag-poster">Poster</span>
+<p class="pres-title">"How does intron loss/gain affect chromatin marks in gene duplicates?"</p>
+<p class="pres-venue">Plant Sciences Symposium, UC Davis · May 2023</p>
+</div>
+
+<div class="pres-card">
+<span class="pres-tag tag-both">Abstract &amp; Poster</span>
+<p class="pres-title">"How does intron loss/gain affect chromatin marks in gene duplicates?"</p>
+<p class="pres-venue">UC Davis Annual Biotechnology Program Retreat · March 2023</p>
+</div>
+
+<div class="pres-card">
+<span class="pres-tag tag-poster">Poster</span>
+<p class="pres-title">"How do IME introns contribute to the mutation rate and epigenetic landscape of their gene bodies?"</p>
+<p class="pres-venue">Plant Sciences Symposium, UC Davis · May 2022</p>
+</div>
+
+<div class="pres-card">
+<span class="pres-tag tag-oral">Oral</span>
+<p class="pres-title">"How does IME affect gene body mutations?"</p>
+<p class="pres-venue">Plant Biology Graduate Group Seminar, UC Davis · March 2022</p>
+</div>
+
+<div class="pres-card">
+<span class="pres-tag tag-both">Abstract &amp; Poster</span>
+<p class="pres-title">"What Kind of Sequences Support Transcription Initiation in Response to Stimulatory Introns?"</p>
+<p class="pres-venue">Undergraduate Research Conference, UC Davis · April 2019</p>
+</div>
+
+</div>

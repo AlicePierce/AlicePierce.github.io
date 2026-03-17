@@ -1,4 +1,7 @@
-# Outreach
+---
+layout: page
+title: Outreach
+---
 
 ## Sections
 - [Resources for Undergraduate Students](#resources-for-undergraduate-students)

@@ -1,4 +1,7 @@
-# Contact Me
+---
+layout: page
+title: Contact Me
+---
 
 Feel free to reach out or check out my work through the links below!
 

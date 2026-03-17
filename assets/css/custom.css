@@ -1,0 +1,460 @@
+/* =============================================
+   Alice Pierce — Custom Theme
+   ============================================= */
+
+:root {
+  --pink: #e86fb1;
+  --pink-dark: #b5297a;
+  --pink-light: #fdf0f7;
+  --pink-border: #f0d6e8;
+  --radius: 12px;
+  --shadow: 0 2px 12px rgba(232, 111, 177, 0.10);
+  --shadow-hover: 0 6px 24px rgba(232, 111, 177, 0.20);
+  --transition: 0.2s ease;
+}
+
+/* ---- Smooth scrolling ---- */
+html {
+  scroll-behavior: smooth;
+}
+
+/* ---- Skip to content (accessibility) ---- */
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  background: var(--pink-dark);
+  color: #fff;
+  padding: 8px 16px;
+  z-index: 9999;
+  border-radius: 0 0 var(--radius) 0;
+  font-weight: 600;
+  transition: top var(--transition);
+}
+.skip-link:focus {
+  top: 0;
+}
+
+/* ---- Focus rings ---- */
+a:focus-visible,
+button:focus-visible,
+[tabindex]:focus-visible {
+  outline: 2px solid var(--pink);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+/* ---- Navbar ---- */
+.navbar {
+  box-shadow: 0 1px 0 var(--pink-border);
+}
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-item.active .nav-link {
+  border-bottom: 2px solid var(--pink);
+  color: var(--pink-dark) !important;
+}
+.navbar-nav .nav-link:hover {
+  color: var(--pink-dark) !important;
+}
+
+/* ---- CTA Buttons ---- */
+.cta-button,
+a.cta-button {
+  display: inline-block;
+  background: var(--pink-dark);
+  color: #fff !important;
+  padding: 0.5rem 1.4rem;
+  border-radius: 999px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  text-decoration: none;
+  margin-top: 0.5rem;
+  transition: background var(--transition), transform var(--transition), box-shadow var(--transition);
+  box-shadow: 0 2px 8px rgba(181, 41, 122, 0.25);
+}
+.cta-button:hover,
+a.cta-button:hover {
+  background: var(--pink);
+  color: #fff !important;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px rgba(181, 41, 122, 0.30);
+  text-decoration: none;
+}
+
+/* ---- Card component ---- */
+.card-modern {
+  background: #fff;
+  border-radius: var(--radius);
+  border: 1px solid var(--pink-border);
+  border-left: 4px solid var(--pink);
+  box-shadow: var(--shadow);
+  padding: 1.5rem 1.75rem;
+  margin-bottom: 1.5rem;
+  transition: box-shadow var(--transition), transform var(--transition);
+}
+.card-modern:hover {
+  box-shadow: var(--shadow-hover);
+  transform: translateY(-2px);
+}
+.card-modern h3,
+.card-modern h4 {
+  color: var(--pink-dark);
+  margin-top: 0;
+}
+
+/* ---- Feature cards (home page) ---- */
+.feature-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+.feature-card {
+  background: #fff;
+  border-radius: var(--radius);
+  border: 1px solid var(--pink-border);
+  box-shadow: var(--shadow);
+  padding: 1.75rem;
+  display: flex;
+  flex-direction: column;
+  transition: box-shadow var(--transition), transform var(--transition);
+}
+.feature-card:hover {
+  box-shadow: var(--shadow-hover);
+  transform: translateY(-3px);
+}
+.feature-card .card-icon {
+  font-size: 2rem;
+  margin-bottom: 0.75rem;
+}
+.feature-card h3 {
+  color: var(--pink-dark);
+  font-size: 1.1rem;
+  margin: 0 0 0.5rem 0;
+}
+.feature-card p {
+  flex: 1;
+  font-size: 0.95rem;
+  color: #555;
+  margin-bottom: 1rem;
+}
+
+/* ---- Education cards ---- */
+.edu-card {
+  background: linear-gradient(135deg, var(--pink-light) 0%, #fff 55%);
+  border-radius: var(--radius);
+  border: 1px solid var(--pink-border);
+  border-top: 4px solid var(--pink);
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 1.25rem;
+  transition: box-shadow var(--transition), transform var(--transition);
+}
+.edu-card:hover {
+  box-shadow: var(--shadow);
+  transform: translateY(-2px);
+}
+.edu-card .edu-degree {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #222;
+  margin: 0 0 0.15rem 0;
+}
+.edu-card .edu-school {
+  color: var(--pink-dark);
+  font-size: 0.9rem;
+  font-weight: 600;
+  margin: 0 0 0.5rem 0;
+}
+.edu-card .edu-detail {
+  font-size: 0.875rem;
+  color: #555;
+  margin: 0.15rem 0 0 0;
+}
+
+/* ---- CV section cards ---- */
+.cv-section {
+  margin-bottom: 2.5rem;
+}
+.pub-card {
+  background: #fff;
+  border-radius: var(--radius);
+  border: 1px solid var(--pink-border);
+  border-left: 4px solid var(--pink);
+  box-shadow: var(--shadow);
+  padding: 0.75rem 1rem;
+  margin-bottom: 0.6rem;
+  transition: box-shadow var(--transition), transform var(--transition);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.15rem 0.6rem;
+}
+.pub-card:hover {
+  box-shadow: var(--shadow-hover);
+  transform: translateY(-2px);
+}
+.pub-card .pub-title {
+  font-weight: 700;
+  color: #222;
+  margin: 0;
+  font-size: 0.95rem;
+  flex-basis: 100%;
+}
+.pub-card .pub-authors {
+  font-size: 0.85rem;
+  color: #555;
+  margin: 0;
+}
+.pub-card .pub-journal {
+  font-style: italic;
+  font-size: 0.85rem;
+  color: #888;
+  margin: 0;
+}
+.pub-card .pub-journal::before {
+  content: "·";
+  margin-right: 0.6rem;
+  color: var(--pink);
+}
+.pub-card .doi-link {
+  display: inline-block;
+  background: var(--pink-light);
+  color: var(--pink-dark);
+  border: 1px solid var(--pink-border);
+  padding: 0.15rem 0.7rem;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background var(--transition);
+  margin-left: auto;
+}
+.pub-card .doi-link:hover {
+  background: var(--pink);
+  color: #fff;
+}
+
+/* ---- Presentation cards ---- */
+.presentations-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 0.85rem;
+  margin-bottom: 1rem;
+}
+.pres-card {
+  background: #fff;
+  border-radius: var(--radius);
+  border: 1px solid var(--pink-border);
+  border-left: 4px solid var(--pink);
+  box-shadow: var(--shadow);
+  padding: 0.85rem 1rem;
+  transition: box-shadow var(--transition), transform var(--transition);
+}
+.pres-card:hover {
+  box-shadow: var(--shadow-hover);
+  transform: translateY(-2px);
+}
+.pres-card .pres-tag {
+  display: inline-block;
+  padding: 0.15rem 0.65rem;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: 0.4rem;
+}
+.tag-oral       { background: #fce4f3; color: #8b1a5c; }
+.tag-poster     { background: #e8e4fc; color: #3d2a8b; }
+.tag-workshop   { background: #e4f5e8; color: #1a6b35; }
+.tag-both       { background: #fde8d8; color: #7a3010; }
+.pres-card .pres-title {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #222;
+  margin: 0 0 0.2rem 0;
+}
+.pres-card .pres-venue {
+  font-size: 0.82rem;
+  color: #666;
+  margin: 0;
+}
+
+/* ---- Awards grid ---- */
+.awards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+.award-card {
+  background: var(--pink-light);
+  border: 1px solid var(--pink-border);
+  border-radius: var(--radius);
+  padding: 1rem 1.25rem;
+  transition: box-shadow var(--transition), transform var(--transition);
+}
+.award-card:hover {
+  box-shadow: var(--shadow);
+  transform: translateY(-2px);
+}
+.award-card .award-name {
+  font-weight: 700;
+  color: var(--pink-dark);
+  font-size: 0.95rem;
+  margin: 0 0 0.2rem 0;
+}
+.award-card .award-detail {
+  font-size: 0.85rem;
+  color: #666;
+  margin: 0;
+}
+
+/* ---- Section dividers ---- */
+.section-divider {
+  border: none;
+  border-top: 2px solid var(--pink-border);
+  margin: 2rem 0;
+}
+
+/* ---- Art lightbox grid ---- */
+.art-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+@media (max-width: 600px) {
+  .art-grid {
+    grid-template-columns: 1fr;
+  }
+}
+.art-item {
+  margin: 0;
+  position: relative;
+  overflow: hidden;
+  border-radius: var(--radius);
+  border: 1px solid var(--pink-border);
+  box-shadow: var(--shadow);
+  cursor: pointer;
+  transition: box-shadow var(--transition), transform var(--transition);
+}
+.art-item:hover {
+  box-shadow: var(--shadow-hover);
+  transform: translateY(-3px);
+}
+.art-item img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  display: block;
+  transition: transform var(--transition);
+}
+.art-item:hover img {
+  transform: scale(1.04);
+}
+.art-item figcaption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(transparent, rgba(181, 41, 122, 0.75));
+  color: #fff;
+  text-align: center;
+  padding: 0.75rem 0.5rem 0.5rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  opacity: 0;
+  transition: opacity var(--transition);
+}
+.art-item:hover figcaption {
+  opacity: 1;
+}
+
+/* ---- Lightbox dialog ---- */
+#lightbox {
+  background: rgba(0, 0, 0, 0.88);
+  border: none;
+  border-radius: 0;
+  max-width: 100vw;
+  max-height: 100vh;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  z-index: 9999;
+}
+#lightbox[open] {
+  display: flex;
+}
+#lightbox::backdrop {
+  background: transparent;
+}
+#lightbox img {
+  max-width: 90vw;
+  max-height: 80vh;
+  object-fit: contain;
+  border-radius: 8px;
+  box-shadow: 0 8px 40px rgba(0,0,0,0.5);
+}
+#lightbox figcaption {
+  color: #fff;
+  font-size: 1rem;
+  margin-top: 1rem;
+  font-weight: 600;
+}
+.lightbox-close {
+  position: absolute;
+  top: 1rem;
+  right: 1.5rem;
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 2rem;
+  cursor: pointer;
+  line-height: 1;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  transition: color var(--transition);
+}
+.lightbox-close:hover {
+  color: var(--pink);
+}
+.lightbox-nav {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(255,255,255,0.15);
+  border: none;
+  color: #fff;
+  font-size: 2rem;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  transition: background var(--transition);
+}
+.lightbox-nav:hover {
+  background: rgba(232, 111, 177, 0.5);
+}
+.lightbox-prev { left: 1rem; }
+.lightbox-next { right: 1rem; }
+
+/* ---- Responsive tweaks ---- */
+@media (max-width: 768px) {
+  .feature-cards {
+    grid-template-columns: 1fr;
+  }
+  .awards-grid {
+    grid-template-columns: 1fr;
+  }
+  .art-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
