@@ -446,7 +446,220 @@ a.cta-button:hover {
 .lightbox-prev { left: 1rem; }
 .lightbox-next { right: 1rem; }
 
+/* ---- Explore / interactive app button ---- */
+.explore-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: linear-gradient(135deg, var(--pink) 0%, var(--pink-dark) 100%);
+  color: #fff;
+  font-weight: 600;
+  font-size: 0.92rem;
+  padding: 0.65rem 1.35rem;
+  border-radius: 999px;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+  transition: opacity var(--transition), transform var(--transition), box-shadow var(--transition);
+  box-shadow: 0 3px 12px rgba(181, 41, 122, 0.25);
+  margin-top: 1rem;
+}
+.explore-btn:hover {
+  opacity: 0.9;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(181, 41, 122, 0.35);
+  color: #fff;
+  text-decoration: none;
+}
+.explore-btn .btn-icon {
+  font-size: 1.1rem;
+}
+
+/* ---- Shiny app embed page ---- */
+.shiny-embed-wrap {
+  width: 100%;
+  margin: 1rem 0;
+  padding: 0 1rem;
+  box-sizing: border-box;
+}
+.shiny-embed-wrap iframe {
+  width: 100%;
+  height: 85vh;
+  min-height: 620px;
+  border: none;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+.shiny-placeholder {
+  background: var(--pink-light);
+  border: 2px dashed var(--pink-border);
+  border-radius: var(--radius);
+  padding: 3rem 2rem;
+  text-align: center;
+  color: #888;
+}
+
+/* ---- R Package card ---- */
+.pkg-card {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  background: linear-gradient(135deg, var(--pink-light) 0%, #fff 60%);
+  border: 1px solid var(--pink-border);
+  border-left: 5px solid var(--pink);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 1.75rem 2rem;
+  transition: box-shadow var(--transition), transform var(--transition);
+}
+.pkg-card:hover {
+  box-shadow: var(--shadow-hover);
+  transform: translateY(-3px);
+}
+.pkg-logo-link {
+  flex-shrink: 0;
+}
+.pkg-logo {
+  width: 200px;
+  height: auto;
+  border-radius: 12px;
+  display: block;
+  transition: transform var(--transition);
+}
+.pkg-logo:hover {
+  transform: scale(1.05);
+}
+.pkg-info {
+  flex: 1;
+}
+.pkg-name {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: #222;
+  margin: 0 0 0.5rem 0;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+.pkg-badge {
+  background: var(--pink);
+  color: #fff;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+}
+.pkg-desc {
+  font-size: 0.92rem;
+  color: #555;
+  margin: 0 0 1rem 0;
+  line-height: 1.6;
+}
+
+/* ---- Contact page ---- */
+.contact-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.25rem;
+  margin: 2rem 0;
+}
+.contact-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  background: #fff;
+  border: 1px solid var(--pink-border);
+  border-top: 4px solid var(--pink);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 1.75rem 1.25rem 1.5rem;
+  text-decoration: none;
+  transition: box-shadow var(--transition), transform var(--transition), border-color var(--transition);
+  color: inherit;
+}
+.contact-card:hover {
+  box-shadow: var(--shadow-hover);
+  transform: translateY(-4px);
+  border-top-color: var(--pink-dark);
+  text-decoration: none;
+  color: inherit;
+}
+.contact-icon {
+  font-size: 2rem;
+  margin-bottom: 0.6rem;
+  line-height: 1;
+}
+.contact-platform {
+  font-weight: 700;
+  font-size: 0.95rem;
+  color: var(--pink-dark);
+  margin-bottom: 0.3rem;
+}
+.contact-handle {
+  font-size: 0.82rem;
+  color: #777;
+  word-break: break-all;
+}
+
 /* ---- Responsive tweaks ---- */
+/* ---- Resource stack (horizontal stacked cards) ---- */
+.resource-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+  margin-bottom: 1.5rem;
+}
+.resource-item {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  background: #fff;
+  border: 1px solid var(--pink-border);
+  border-left: 4px solid var(--pink);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 1rem 1.25rem;
+  transition: box-shadow var(--transition), transform var(--transition);
+}
+.resource-item:hover {
+  box-shadow: var(--shadow-hover);
+  transform: translateY(-2px);
+}
+.resource-item .res-logo {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+.resource-item .res-icon {
+  font-size: 1.75rem;
+  flex-shrink: 0;
+  width: 2.5rem;
+  text-align: center;
+}
+.resource-item .res-info {
+  flex: 1;
+  min-width: 0;
+}
+.resource-item .res-title {
+  font-weight: 700;
+  font-size: 0.97rem;
+  color: #222;
+  margin: 0 0 0.2rem 0;
+}
+.resource-item .res-desc {
+  font-size: 0.85rem;
+  color: #666;
+  margin: 0;
+}
+.resource-item .res-action {
+  flex-shrink: 0;
+}
+
 @media (max-width: 768px) {
   .feature-cards {
     grid-template-columns: 1fr;
@@ -456,5 +669,18 @@ a.cta-button:hover {
   }
   .art-grid {
     grid-template-columns: repeat(2, 1fr);
+  }
+  .pkg-card {
+    flex-direction: column;
+    text-align: center;
+  }
+  .pkg-name {
+    justify-content: center;
+  }
+  .resource-item {
+    flex-wrap: wrap;
+  }
+  .resource-item .res-action {
+    width: 100%;
   }
 }

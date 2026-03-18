@@ -8,17 +8,17 @@ I combine my love of plants and biology with illustration. Click any image to vi
 <div class="art-grid">
 
   <figure class="art-item" onclick="openLightbox(0)" tabindex="0" role="button" aria-label="View Arabidopsis illustration">
-    <img src="art-1.jpg" alt="Illustration of Arabidopsis thaliana">
+    <img src="/art-1.jpg" alt="Illustration of Arabidopsis thaliana">
     <figcaption>Arabidopsis</figcaption>
   </figure>
 
   <figure class="art-item" onclick="openLightbox(1)" tabindex="0" role="button" aria-label="View Rose illustration">
-    <img src="art-2.jpg" alt="Illustration of a rose">
+    <img src="/art-2.jpg" alt="Illustration of a rose">
     <figcaption>Rose</figcaption>
   </figure>
 
   <figure class="art-item" onclick="openLightbox(2)" tabindex="0" role="button" aria-label="View Hydrangea illustration">
-    <img src="art-3.jpg" alt="Illustration of a hydrangea">
+    <img src="/art-3.jpg" alt="Illustration of a hydrangea">
     <figcaption>Hydrangea</figcaption>
   </figure>
 
@@ -34,9 +34,9 @@ I combine my love of plants and biology with illustration. Click any image to vi
 
 <script>
 const artItems = [
-  { src: 'art-1.jpg', alt: 'Illustration of Arabidopsis thaliana', caption: 'Arabidopsis' },
-  { src: 'art-2.jpg', alt: 'Illustration of a rose', caption: 'Rose' },
-  { src: 'art-3.jpg', alt: 'Illustration of a hydrangea', caption: 'Hydrangea' },
+  { src: '/art-1.jpg', alt: 'Illustration of Arabidopsis thaliana', caption: 'Arabidopsis' },
+  { src: '/art-2.jpg', alt: 'Illustration of a rose', caption: 'Rose' },
+  { src: '/art-3.jpg', alt: 'Illustration of a hydrangea', caption: 'Hydrangea' },
 ];
 let currentIndex = 0;
 const dialog = document.getElementById('lightbox');

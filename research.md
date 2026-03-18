@@ -5,7 +5,7 @@ title: Research
 
 ## Intron Biology
 
-![Splicing](intron-splicing.png)
+![Splicing](/intron-splicing.png)
 
 Introns are non-coding sequences within genes that are transcribed into RNA but are spliced out before translation into protein. Despite introns being ubiquitous features of eukaryotic genomes, their function and persistence in genomes remain elusive. My research aims to unravel the role of introns in chromatin structure and explore how their architecture and sequences influence transcriptional regulation.
 
@@ -29,14 +29,31 @@ Notably, we identified enrichment of the gene body mark H3K36me3 within introns,
   </a>
 </p>
 
+<p align="center">
+  <a class="explore-btn" href="/metaplots" target="_blank">
+    <span class="btn-icon">📊</span>
+    Explore the distribution of chromatin features binned by gene architecture interactively
+  </a>
+  &nbsp;
+  <a class="explore-btn" href="/scatterplots" target="_blank">
+    <span class="btn-icon">📊</span>
+    Explore the relationship between gene features and chromatin features interactively
+  </a>
+</p>
+
 </div>
 
 <hr class="section-divider">
 
-### Check out my R Package: intronology
-
-<p align="center">
-  <a href="https://github.com/AlicePierce/intronology" target="_blank">
-    <img src="https://alicepierce.github.io/assets/img/intronology-template.png" alt="intronology R package logo" style="width:35%; max-width:200px;">
+<div class="pkg-card">
+  <a href="https://github.com/AlicePierce/intronology" target="_blank" class="pkg-logo-link">
+    <img src="https://alicepierce.github.io/assets/img/intronology-template.png" alt="intronology R package logo" class="pkg-logo">
   </a>
-</p>
+  <div class="pkg-info">
+    <h3 class="pkg-name">intronology <span class="pkg-badge">R Package</span></h3>
+    <p class="pkg-desc">An R package for annotating intron architecture across genomes</p>
+    <a href="https://github.com/AlicePierce/intronology" target="_blank" class="explore-btn" style="margin-top:0;">
+      <span class="btn-icon">📦</span> View on GitHub
+    </a>
+  </div>
+</div>

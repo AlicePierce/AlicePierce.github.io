@@ -61,14 +61,14 @@ title: CV
 <div class="pub-card">
 <p class="pub-title">The Farm-to-Fork Journey: Keeping Produce Fresh and Safe to Eat</p>
 <span class="pub-authors"><strong>Alice Pierce</strong>, Joseph Student and Maeli Melotto (2022)</span>
-<span class="pub-journal">Frontiers for Young Minds, 10:587135</span>
+<span class="pub-journal">Frontiers for Young Minds</span>
 <a class="doi-link" href="https://doi.org/10.3389/frym.2022.587135">DOI</a>
 </div>
 
 <div class="pub-card">
 <p class="pub-title">Spatiotemporal regulation of JAZ4 expression and splicing contribute to ethylene- and auxin-mediated responses in <em>Arabidopsis</em> roots</p>
 <span class="pub-authors">Logan DeMott, Paula Oblessuc, <strong>Alice Pierce</strong>, Joseph Student and Maeli Melotto (2021)</span>
-<span class="pub-journal">Plant Journal, 108: 1266–1282</span>
+<span class="pub-journal">Plant Journal</span>
 <a class="doi-link" href="https://doi.org/10.1111/tpj.15508">DOI</a>
 </div>
 
@@ -149,7 +149,7 @@ title: CV
 
 <div class="award-card">
 <p class="award-name">General Member Award for Outstanding High School Outreach</p>
-<p class="award-detail">Grad and Postdoc UC Davis SACNAS Chapter, 2022–2023</p>
+<p class="award-detail">Grad and Postdoc SACNAS Chapter at UC Davis, 2022–2023</p>
 </div>
 
 <div class="award-card">
