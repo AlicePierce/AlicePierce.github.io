@@ -11,12 +11,24 @@
   </button>
 
   <div class="collapse navbar-collapse" id="main-navbar">
-    <ul class="navbar-nav ml-auto">
+    {%- comment -%} Menu is split around the avatar: the first `navbar-split` links sit left of it, the rest right of it. {%- endcomment -%}
+    {%- assign split_at = site.navbar-split | default: 3 -%}
+    {%- assign sides = "left,right" | split: "," -%}
+    {%- for side in sides -%}
+    <ul class="navbar-nav nav-{{ side }}">
       {%- for link in site.navbar-links -%}
+        {%- if side == "left" and forloop.index > split_at -%}{%- continue -%}{%- endif -%}
+        {%- if side == "right" and forloop.index <= split_at -%}{%- continue -%}{%- endif -%}
         {%- if link[1].first %}
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ link[0] }}</a>
-            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+            {%- comment -%} Hover-open dropdown: the top link navigates to navbar-dropdown-parents[name], else the first child. {%- endcomment -%}
+            {%- assign parent_map = site['navbar-dropdown-parents'] -%}
+            {%- assign parent_key = link[0] -%}
+            {%- assign parent_url = parent_map[parent_key] -%}
+            {%- unless parent_url -%}{%- for childlink in link[1] limit:1 -%}{%- for linkparts in childlink -%}{%- assign parent_url = linkparts[1] -%}{%- endfor -%}{%- endfor -%}{%- endunless %}
+            {%- assign is_active = false -%}{%- if page.url contains parent_url -%}{%- assign is_active = true -%}{%- endif -%}
+            <a class="nav-link dropdown-toggle{% if is_active %} active{% endif %}" href="{{ parent_url | relative_url }}" id="navbarDropdown-{{ link[0] | slugify }}" aria-haspopup="true">{{ link[0] }}</a>
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown-{{ link[0] | slugify }}">
               {%- for childlink in link[1] -%}
                 {%- for linkparts in childlink %}
                   <a class="dropdown-item" href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
@@ -26,10 +38,11 @@
           </li>
         {% else %}
           <li class="nav-item">
-            <a class="nav-link" href="{{ link[1] | relative_url }}">{{ link[0] }}</a>
+            <a class="nav-link{% if link[1] == "/" %}{% if page.url == "/" %} active{% endif %}{% elsif page.url contains link[1] %} active{% endif %}" href="{{ link[1] | relative_url }}">{{ link[0] }}</a>
           </li>
         {%- endif -%}
       {%- endfor -%}
+      {%- if side == "right" -%}
       {% if site.post_search %}
         <li class="nav-item">
           <a class="nav-link" id="nav-search-link" href="#" title="Search">
@@ -38,7 +51,9 @@
           </a>
         </li>
       {%- endif -%}
+      {%- endif -%}
     </ul>
+    {%- endfor %}
   </div>
 
   {% if site.navbar-extra %}

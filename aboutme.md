@@ -5,6 +5,8 @@ title: About me
 ---
 
 ## About Me
+<p class="pill-btn-wrap pill-btn-left"><a class="pill-btn" href="/assets/files/Alice-Pierce-CV.pdf" download>Download CV (PDF)</a></p>
+
 I am from the vibrant and coastal city of Mazatlán, México. I moved to the United States to pursue my undergraduate studies at UC Davis, where I majored in Biotechnology with an emphasis on plants. 
 
 During my time at UC Davis, I worked in Dr. Alan Rose's lab, where I studied how stimulatory introns influence gene expression in plants. This experience sparked my love for introns, non-coding sequences, and their intricate roles in gene regulation. 
@@ -15,13 +17,13 @@ Currently, I am pursuing a PhD in Dr. Grey Monroe's lab, where I study how intro
 
 I am deeply committed to fostering equitable and accessible spaces in STEM. As a Mexican immigrant and the first person in my family to pursue a doctoral degree, I have faced significant barriers on my journey to higher education, which has only strengthened my resolve to support historically underrepresented groups in science. I actively engage in mentorship and outreach programs to inspire and guide the next generation of diverse scientists.
 
-Currently, I serve as the President of the Graduate Student and Postdoctoral SACNAS Chapter at UC Davis, where we lead outreach efforts across all levels of education. Our mission is to increase representation in STEM through mentorship, professional development and community-building.
+I am the Past President of the Graduate Student and Postdoctoral SACNAS Chapter at UC Davis, where we led outreach efforts across all levels of education. The chapter's mission is to increase representation in STEM through mentorship, professional development and community-building.
 
 <div align="center">
     <a href="https://gspdsacnasatucd.weebly.com/" style="background-color: #28a745; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">Learn more about the GSPD SACNAS Chapter @ UC Davis</a>
 </div>  
 
-Additionally, I am the Program Coordinator for EnvironMentors, a college access program that pairs high school students with graduate student mentors to guide them through independent research projects and college preparation.
+Additionally, I am the Past Program Coordinator for EnvironMentors, a college access program that pairs high school students with graduate student mentors to guide them through independent research projects and college preparation.
 
 <div align="center">
     <a href="https://environmentors.sf.ucdavis.edu/" style="background-color: #0073e6; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">Learn more about the EnvironMentors Chapter at UC Davis</a>

@@ -96,8 +96,8 @@ subtitle: Open tools, data, and materials from my research
       <p class="res-desc">Workshop materials from the Graduate Student and Postdoctoral SACNAS Chapter at UC Davis. Build your own free academic website using Jekyll and GitHub Pages.</p>
     </div>
     <div class="res-action">
-      <a class="explore-btn" href="https://github.com/AlicePierce" target="_blank">
-        <span class="btn-icon">→</span> Coming Soon
+      <a class="explore-btn" href="/assets/files/personal-website-workshop-gspd-sacnas.pdf" target="_blank">
+        <span class="btn-icon">📥</span> Download Slides (PDF)
       </a>
     </div>
   </div>
@@ -109,8 +109,8 @@ subtitle: Open tools, data, and materials from my research
       <p class="res-desc">Workshop co-presented with Sonhita Chakraborty at Plant Biology 2024 with over 150 attendees. Tips and tools for communicating science visually.</p>
     </div>
     <div class="res-action">
-      <a class="explore-btn" href="https://github.com/AlicePierce" target="_blank">
-        <span class="btn-icon">→</span> Coming Soon
+      <a class="explore-btn" href="/assets/files/graphical-abstract-workshop-plant-biology-2024.pdf" target="_blank">
+        <span class="btn-icon">📥</span> Download Slides (PDF)
       </a>
     </div>
   </div>

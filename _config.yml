@@ -20,13 +20,27 @@ author: Alice Pierce
 ###############################################
 
 navbar-links:
+  Home: "/"
   About Me: "aboutme"
   CV: "cv"
   Research: "research"
   Resources: "resources"
-  Outreach: "outreach"
+  Outreach:
+    - SACNAS: "outreach/sacnas/"
+    - EnvironMentors: "outreach/environmentors/"
+    - Undergraduate Resources: "outreach/undergraduate/"
+    - Graduate Resources: "outreach/graduate/"
+    - Get Involved: "outreach/get-involved/"
+    - Blog Posts: "outreach/blog-posts/"
+    - Webinars: "outreach/webinars/"
   SciArt: "sciart"
   Contact: "contact"
+# Number of links shown to the left of the avatar (the rest go on the right)
+navbar-split: 4
+
+navbar-dropdown-parents:
+  Outreach: "outreach"
+
  # Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"

@@ -87,4 +87,25 @@ document.querySelectorAll('.art-item').forEach(function(item, i) {
 
 <hr class="section-divider">
 
+## Workshops
+
+<div class="resource-stack">
+
+  <div class="resource-item">
+    <span class="res-icon">🎨</span>
+    <div class="res-info">
+      <p class="res-title">How to Make an Effective Graphical Abstract or Scientific Illustration</p>
+      <p class="res-desc">Workshop co-presented with Sonhita Chakraborty at Plant Biology 2024 with over 150 attendees. Tips and tools for communicating science visually.</p>
+    </div>
+    <div class="res-action">
+      <a class="explore-btn" href="/assets/files/graphical-abstract-workshop-plant-biology-2024.pdf" target="_blank">
+        <span class="btn-icon">📥</span> Download Slides (PDF)
+      </a>
+    </div>
+  </div>
+
+</div>
+
+<hr class="section-divider">
+
 ### See more on my [Instagram](https://www.instagram.com/alice.pipettes)

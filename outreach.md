@@ -3,35 +3,57 @@ layout: page
 title: Outreach
 ---
 
-## Sections
-- [Resources for Undergraduate Students](#resources-for-undergraduate-students)
-- [Resources for Graduate Students](#resources-for-graduate-students)
-- [Blog Posts](#blog-posts)
-- [Webinars](#webinars)
-  
-## Resources for Undergraduate Students
+Explore my outreach work and resources. Hover over **Outreach** in the menu bar to jump straight to any page.
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/appuXmu4XSkVujs2M/shrXonOpMB5qRRFgl?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="333" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<div class="feature-cards">
 
-## Resources for Graduate Students
+  <a class="feature-card" href="/outreach/sacnas/">
+    <div class="card-icon">🌵</div>
+    <h3>SACNAS</h3>
+    <p>My work with the Society for Advancement of Chicanos/Hispanics and Native Americans in Science.</p>
+    <span class="card-link">Learn more →</span>
+  </a>
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/app4mb5eKRDyZpwR1/shr0ITTr6RHbSKHDc?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="333" style="background: transparent; border: 1px solid #ccc;"></iframe>
+  <a class="feature-card" href="/outreach/environmentors/">
+    <div class="card-icon">🌱</div>
+    <h3>EnvironMentors</h3>
+    <p>Mentoring high school students in environmental science.</p>
+    <span class="card-link">Learn more →</span>
+  </a>
 
-## Get Involved
-<iframe class="airtable-embed" src="https://airtable.com/embed/appEhOZUtWJUTYqRn/shr2ltfMJrF0qvPHj?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="222" style="background: transparent; border: 1px solid #ccc;"></iframe>
+  <a class="feature-card" href="/outreach/undergraduate/">
+    <div class="card-icon">🎓</div>
+    <h3>Resources for Undergraduate Students</h3>
+    <p>Curated opportunities and resources for undergraduates.</p>
+    <span class="card-link">Browse resources →</span>
+  </a>
 
-## Blog Posts
-[The Science Behind Scientific Writing](https://plantae.org/the-science-behind-scientific-writing/) for Plantae-ASPB
+  <a class="feature-card" href="/outreach/graduate/">
+    <div class="card-icon">🔬</div>
+    <h3>Resources for Graduate Students</h3>
+    <p>Curated opportunities and resources for graduate students.</p>
+    <span class="card-link">Browse resources →</span>
+  </a>
 
-[Decoding the Code with R](https://plantae.org/decoding-the-code-with-r/) for Plantae-ASPB
+  <a class="feature-card" href="/outreach/get-involved/">
+    <div class="card-icon">🤝</div>
+    <h3>Get Involved</h3>
+    <p>Ways to volunteer, mentor, and get involved.</p>
+    <span class="card-link">Get involved →</span>
+  </a>
 
-[The Future of Education: Addressing Plant Blindness to Confront Global Challenges](https://plantae.org/the-future-of-education-addressing-plant-blindness-to-confront-global-challenges/) for Plantae-ASPB
+  <a class="feature-card" href="/outreach/blog-posts/">
+    <div class="card-icon">✍️</div>
+    <h3>Blog Posts</h3>
+    <p>Articles I've written for Plantae-ASPB.</p>
+    <span class="card-link">Read posts →</span>
+  </a>
 
-[Bridging Science and Art: The Journey to Becoming a Scientific Illustrator](https://plantae.org/bridging-science-and-art-the-journey-to-becoming-a-scientific-illustrator/) - for Plantae-ASPB
+  <a class="feature-card" href="/outreach/webinars/">
+    <div class="card-icon">🎥</div>
+    <h3>Webinars</h3>
+    <p>Webinars I've helped organize for Plantae-ASPB.</p>
+    <span class="card-link">Watch webinars →</span>
+  </a>
 
-## Webinars
-[How to Build a Diverse and Inclusive Academic Space](https://plantae.org/plantaepresents-how-to-build-a-diverse-and-inclusive-academic-space/) - for Plantae-ASPB
-
-[Importance of Self-care and Community Care](https://plantae.org/plantaepresents-importance-of-selfcare-and-community/) - for Plantae-ASPB
-
-[Celebrating Women in Plant Science](https://plantae.org/plantaepresents-celebrating-women-in-plant-science/) - for Plantae-ASPB
+</div>

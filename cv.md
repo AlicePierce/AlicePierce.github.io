@@ -3,20 +3,23 @@ layout: page
 title: CV
 ---
 
+<p class="pill-btn-wrap"><a class="pill-btn" href="/assets/files/Alice-Pierce-CV.pdf" download>Download CV (PDF)</a></p>
+
 ## Education
 
 <div class="edu-card">
 <p class="edu-degree">Doctor of Philosophy in Plant Biology</p>
-<p class="edu-school">University of California, Davis &nbsp;·&nbsp; Expected December 2026</p>
+<p class="edu-school">University of California, Davis &nbsp;·&nbsp; Expected March 2027</p>
 <p class="edu-detail"><em>Designated Emphasis in Biotechnology</em></p>
-<p class="edu-detail"><strong>Research Interest:</strong> The role of introns in chromatin biology</p>
-<p class="edu-detail"><strong>Major Professor:</strong> Dr. J. Grey Monroe</p>
+<p class="edu-detail"><strong>Advisor:</strong> Dr. J. Grey Monroe, Department of Plant Sciences</p>
+<p class="edu-detail"><strong>Dissertation:</strong> Associations between intron architecture, genome evolution and gene regulation</p>
 </div>
 
 <div class="edu-card">
 <p class="edu-degree">Bachelor of Science in Biotechnology, <em>Honors</em></p>
 <p class="edu-school">University of California, Davis &nbsp;·&nbsp; June 2019</p>
 <p class="edu-detail"><em>Minor in Computational Biology</em></p>
+<p class="edu-detail"><strong>Advisor:</strong> Dr. Alan Rose, Department of Molecular and Cellular Biology</p>
 <p class="edu-detail"><strong>Honors Thesis:</strong> Understanding what kind of sequences can support transcription initiation in response to stimulatory introns</p>
 </div>
 
@@ -80,7 +83,7 @@ title: CV
 
 - **Guest Lecture** — *"The Role of Introns in Plant Chromatin"*, Fall 2025, UC Davis Plant Genetics
 - **Guest Lecture** — *"Becoming a Latina Scientist"*, Winter 2025, Becoming a Latino Scientist Seminar at UC Davis
-- **Teaching Assistant** — *Plant Genetics*, Fall 2022 & Fall 2023, UC Davis
+- **Teaching Assistant** — *Plant Genetics*, Fall 2022, Fall 2023 & Fall 2026, UC Davis
 - **Guest Lecture** — *"Is the Central Dogma Actually a Dogma?"*, Summer 2021, American Chemical Society
 - **Learning Assistant** — *Biodiversity and the Tree of Life*, Winter 2017, UC Davis
 
@@ -206,9 +209,9 @@ title: CV
 <div class="presentations-grid">
 
 <div class="pres-card">
-<span class="pres-tag tag-oral">Oral</span>
+<span class="pres-tag tag-both">Poster &amp; Oral</span>
 <p class="pres-title">"The Role of Introns in Plant Chromatin"</p>
-<p class="pres-venue">National Diversity in STEM · Columbus, Ohio · October 2025</p>
+<p class="pres-venue">SACNAS 2025 · Columbus, Ohio · October 2025</p>
 </div>
 
 <div class="pres-card">
