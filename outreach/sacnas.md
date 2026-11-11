@@ -17,6 +17,10 @@ permalink: /outreach/sacnas/
   <button class="gallery-nav gallery-next" type="button" aria-label="Next photos">&#8250;</button>
 </div>
 
+**SACNAS** (Society for Advancement of Chicanos/Hispanics and Native Americans in Science) fosters the success of underrepresented students and scientists, from college students to professionals, through mentorship, community, and professional development. Its annual SACNAS conference brings thousands of students and researchers together each year.
+
+I am the **Past President of the Graduate Student and Postdoctoral (GSPD) SACNAS Chapter at UC Davis**. During my time as president, we led outreach from middle school through undergrad across the Sacramento Valley, all led and facilitated by graduate students and postdocs. Some highlights include computer science workshops and environmental science lectures for high school students, round table discussions for community college students in collaboration with the MESA program, and participating in the [Avanza Rising Scholars Conference](https://excellence.ucdavis.edu/avanza-conference). We also hosted professional development events, like a [workshop on how to make a personal website using GitHub](/assets/files/personal-website-workshop-gspd-sacnas.pdf).
+
 <dialog id="lightbox" aria-modal="true" aria-label="Photo viewer">
   <button class="lightbox-close" onclick="closeLightbox()" aria-label="Close photo viewer">&times;</button>
   <button class="lightbox-nav lightbox-prev" onclick="shiftLightbox(-1)" aria-label="Previous photo">&#8249;</button>
