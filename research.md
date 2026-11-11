@@ -57,3 +57,56 @@ Notably, we identified enrichment of the gene body mark H3K36me3 within introns,
     </a>
   </div>
 </div>
+
+<hr class="section-divider">
+
+## Publications
+
+<div class="pub-card">
+<p class="pub-title">Intron architecture predicts chromatin features in <em>Arabidopsis thaliana</em></p>
+<span class="pub-authors"><strong>Alice Pierce</strong>, Alan Rose, Grey Monroe (2025)</span>
+<span class="pub-journal">bioRxiv</span>
+<a class="doi-link" href="https://doi.org/10.1101/2025.10.15.682614">DOI</a>
+</div>
+
+<div class="pub-card">
+<p class="pub-title">Evolutionary Trajectories of Cohesin Gatekeepers across the Tree of Life</p>
+<span class="pub-authors">Daniela Quiroz, <strong>Alice Pierce</strong>, Grey Monroe (2025)</span>
+<span class="pub-journal">bioRxiv</span>
+<a class="doi-link" href="https://doi.org/10.1101/2025.05.08.652912">DOI</a>
+</div>
+
+<div class="pub-card">
+<p class="pub-title">Convergent Evolution of Epigenome Recruited DNA Repair across the Tree of Life</p>
+<span class="pub-authors">J. Grey Monroe, Chaehee Lee, (…), <strong>Alice Pierce</strong>, et al. (2025)</span>
+<span class="pub-journal">eLife</span>
+<a class="doi-link" href="https://doi.org/10.7554/eLife.105016.1">DOI</a>
+</div>
+
+<div class="pub-card">
+<p class="pub-title">H3K4me1 recruits DNA repair in plants</p>
+<span class="pub-authors">Daniela Quiroz, Diego Lopez-Mateos, Kehan Zhao, <strong>Alice Pierce</strong>, et al. (2024)</span>
+<span class="pub-journal">The Plant Cell</span>
+<a class="doi-link" href="https://doi.org/10.1093/plcell/koae089">DOI</a>
+</div>
+
+<div class="pub-card">
+<p class="pub-title">Celebrating Plant Diversity through Art</p>
+<span class="pub-authors"><strong>Alice Pierce</strong>, Ian Anderson, Neelima Sinha and Grey Monroe (2023)</span>
+<span class="pub-journal">Plant Science Bulletin</span>
+<a class="doi-link" href="https://botany.org/psbarchive/issue/2023-v69-3.html">Link</a>
+</div>
+
+<div class="pub-card">
+<p class="pub-title">The Farm-to-Fork Journey: Keeping Produce Fresh and Safe to Eat</p>
+<span class="pub-authors"><strong>Alice Pierce</strong>, Joseph Student and Maeli Melotto (2022)</span>
+<span class="pub-journal">Frontiers for Young Minds</span>
+<a class="doi-link" href="https://doi.org/10.3389/frym.2022.587135">DOI</a>
+</div>
+
+<div class="pub-card">
+<p class="pub-title">Spatiotemporal regulation of JAZ4 expression and splicing contribute to ethylene- and auxin-mediated responses in <em>Arabidopsis</em> roots</p>
+<span class="pub-authors">Logan DeMott, Paula Oblessuc, <strong>Alice Pierce</strong>, Joseph Student and Maeli Melotto (2021)</span>
+<span class="pub-journal">Plant Journal</span>
+<a class="doi-link" href="https://doi.org/10.1111/tpj.15508">DOI</a>
+</div>

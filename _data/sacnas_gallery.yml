@@ -1,0 +1,44 @@
+# SACNAS photo gallery. To add a photo: save it in assets/img/sacnas/ and add an entry below.
+# Newest/most important first. "alt" describes the photo for screen readers; "caption" is optional.
+- src: /assets/img/sacnas/gallery-1.jpg
+  alt: SACNAS conference photo 1
+  caption: ""
+- src: /assets/img/sacnas/gallery-2.jpg
+  alt: SACNAS conference photo 2
+  caption: ""
+- src: /assets/img/sacnas/gallery-3.jpg
+  alt: SACNAS conference photo 3
+  caption: ""
+- src: /assets/img/sacnas/gallery-4.jpg
+  alt: SACNAS conference photo 4
+  caption: ""
+- src: /assets/img/sacnas/gallery-5.jpg
+  alt: SACNAS conference photo 5
+  caption: ""
+- src: /assets/img/sacnas/gallery-6.jpg
+  alt: SACNAS conference photo 6
+  caption: ""
+- src: /assets/img/sacnas/gallery-7.jpg
+  alt: SACNAS conference photo 7
+  caption: ""
+- src: /assets/img/sacnas/gallery-8.jpg
+  alt: SACNAS conference photo 8
+  caption: ""
+- src: /assets/img/sacnas/gallery-9.jpg
+  alt: SACNAS conference photo 9
+  caption: ""
+- src: /assets/img/sacnas/gallery-10.jpg
+  alt: SACNAS conference photo 10
+  caption: ""
+- src: /assets/img/sacnas/gallery-11.jpg
+  alt: SACNAS conference photo 11
+  caption: ""
+- src: /assets/img/sacnas/gallery-12.jpg
+  alt: SACNAS conference photo 12
+  caption: ""
+- src: /assets/img/sacnas/gallery-13.jpg
+  alt: SACNAS conference photo 13
+  caption: ""
+- src: /assets/img/sacnas/gallery-14.jpg
+  alt: SACNAS conference photo 14
+  caption: ""

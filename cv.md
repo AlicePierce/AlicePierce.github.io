@@ -56,9 +56,10 @@ title: CV
 </div>
 
 <div class="pub-card">
-<p class="pub-title">Celebrating modern plant diversity cataloging</p>
-<span class="pub-authors"><strong>Alice Pierce</strong>, Ian Anderson, Neelima Sinha and Grey Monroe (2024)</span>
-<span class="pub-journal">Plant Sciences Bulletin</span>
+<p class="pub-title">Celebrating Plant Diversity through Art</p>
+<span class="pub-authors"><strong>Alice Pierce</strong>, Ian Anderson, Neelima Sinha and Grey Monroe (2023)</span>
+<span class="pub-journal">Plant Science Bulletin</span>
+<a class="doi-link" href="https://botany.org/psbarchive/issue/2023-v69-3.html">Link</a>
 </div>
 
 <div class="pub-card">

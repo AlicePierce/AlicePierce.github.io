@@ -12,10 +12,10 @@
       {% endif %}
       <p class="copyright text-muted">
       {% if site.author %}
-        {{ site.author }}
+        Made with 🖤 by {{ site.author }}
         &nbsp;&bull;&nbsp;
       {% endif %}
-      Last updated {{ site.time | date: '%Y' }}
+      Last updated {{ site.time | date: '%B %Y' }}
 
       {% if site.url-pretty %}
         &nbsp;&bull;&nbsp;
@@ -37,7 +37,6 @@
        {% endif%}
 
       </p>
-      <p class="made-with text-muted">Made with 🖤 by {{ site.author }}</p>
       {% unless site.remove-ads %}<p class="theme-by text-muted">
         Powered by
         <a href="https://beautifuljekyll.com">Beautiful Jekyll</a>

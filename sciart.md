@@ -87,6 +87,23 @@ document.querySelectorAll('.art-item').forEach(function(item, i) {
 
 <hr class="section-divider">
 
+## Published Work
+
+<div class="pub-feature">
+  <div class="pub-feature-img">
+    <a href="/assets/img/plant-science-bulletin-illustration.jpg" target="_blank" rel="noopener"><img src="/assets/img/plant-science-bulletin-illustration.jpg" alt="Illustration of plant diversity: flowers, DNA and RNA processing in a cell nucleus, protein structures, a tomato plant, roots with microbes and a leaf cross-section" loading="lazy"></a>
+  </div>
+  <div class="pub-feature-body">
+    <p class="res-title">Celebrating Plant Diversity through Art</p>
+    <p class="res-desc"><strong>Alice Pierce</strong>, Ian Anderson, Neelima Sinha and Grey Monroe (2023)</p>
+    <p class="res-desc"><em>Plant Science Bulletin</em>, Volume 69, Issue 3 (Fall 2023), in the special section "Arts in the Botanical Sciences: Past, Present, and Future."</p>
+    <p class="res-desc">My illustration, shown here, celebrates plant diversity from molecules to whole plants.</p>
+    <a class="explore-btn" href="https://botany.org/psbarchive/issue/2023-v69-3.html" target="_blank" rel="noopener"><span class="btn-icon">→</span> Read in Plant Science Bulletin</a>
+  </div>
+</div>
+
+<hr class="section-divider">
+
 ## Workshops
 
 <div class="resource-stack">
