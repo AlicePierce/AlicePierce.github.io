@@ -43,6 +43,11 @@
         {%- endif -%}
       {%- endfor -%}
       {%- if side == "right" -%}
+        <li class="nav-item theme-toggle-item">
+          <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Switch to dark theme" title="Toggle light/dark theme">
+            <i class="fa fa-moon" aria-hidden="true"></i><i class="fa fa-sun" aria-hidden="true"></i>
+          </button>
+        </li>
       {% if site.post_search %}
         <li class="nav-item">
           <a class="nav-link" id="nav-search-link" href="#" title="Search">
@@ -75,3 +80,21 @@
 </nav>
 
 {% include search.html %}
+
+<script>
+  (function () {
+    var btn = document.getElementById('theme-toggle');
+    if (!btn) return;
+    var root = document.documentElement;
+    function label() {
+      btn.setAttribute('aria-label', root.getAttribute('data-theme') === 'dark' ? 'Switch to light theme' : 'Switch to dark theme');
+    }
+    label();
+    btn.addEventListener('click', function () {
+      var next = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+      root.setAttribute('data-theme', next);
+      try { localStorage.setItem('theme', next); } catch (e) {}
+      label();
+    });
+  })();
+</script>
